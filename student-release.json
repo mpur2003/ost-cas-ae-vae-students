@@ -1,8 +1,8 @@
 {
   "edition": "2026",
   "archive": "CASDay1_students_2026.zip",
-  "sha256": "fd6701439889a412cebe31e175c935fb1695493e88ff40c0f45a84ac806559f3",
-  "bytes": 8526079,
+  "sha256": "938ead039395ff34ee72a3fab271f74ec46a324742b846477a1fa8b6d1f27449",
+  "bytes": 8526387,
   "student_slides": 89,
   "last_slide": "Take-home messages",
   "appendix_included": false,
