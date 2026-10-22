@@ -1,8 +1,8 @@
 {
   "edition": "2026",
   "archive": "CASDay1_students_2026.zip",
-  "sha256": "f82c9609dadd70a0c42025160428b33be197f237da2983306d49ef153e9e0ec1",
-  "bytes": 8530665,
+  "sha256": "af62c89c742a7fe8a8c0ab1faf35ee72c9b79e7cd216c906be63630a8461de19",
+  "bytes": 8520305,
   "student_slides": 87,
   "last_slide": "Take-home messages",
   "appendix_included": false,
@@ -10,8 +10,9 @@
   "training_default": false,
   "original_celeba_photographs_in_gallery": false,
   "standalone_training_notebooks": 4,
-  "exercise_notebooks": 3,
+  "exercise_notebooks": 2,
   "solution_notebooks": 2,
-  "local_references_verified": 85,
-  "browser_errors": 0
+  "local_references_verified": 84,
+  "browser_errors": 0,
+  "transposed_convolution_walkthrough_included": false
 }

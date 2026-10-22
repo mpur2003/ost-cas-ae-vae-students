@@ -38,13 +38,11 @@ Open these notebooks in Jupyter and use Shift+Enter to run one cell:
 
 1. `exercise/01_digits_AE_student.ipynb`
 2. `exercise/02_digits_VAE_student.ipynb`
-3. `exercise/03_convtranspose2d_walkthrough.ipynb`
 
-The first two contain deliberate `TODO` questions. Run All stops at the first
+Both contain deliberate `TODO` questions. Run All stops at the first
 unanswered question. This is expected. Solutions are in `solutions/`; their
 training cells run short CPU jobs when executed. Try the exercises first.
-The third notebook is a complete numerical walkthrough. Digits is bundled with
-scikit-learn, so no dataset download or account is needed.
+Digits is bundled with scikit-learn, so no dataset download or account is needed.
 
 ## Train the larger models later
 
