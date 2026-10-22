@@ -44,6 +44,11 @@ unanswered question. This is expected. Solutions are in `solutions/`; their
 training cells run short CPU jobs when executed. Try the exercises first.
 Digits is bundled with scikit-learn, so no dataset download or account is needed.
 
+After creating the model, run its **Inspect the model with torchinfo** cells to
+print layers, input/output shapes and parameter counts. No training is needed.
+The two Digits exercises and both solutions include this summary. If the model
+has not been created yet, complete its creation cell first.
+
 ## Train the larger models later
 
 `lecture/student_notebooks/` contains four self-contained programs:

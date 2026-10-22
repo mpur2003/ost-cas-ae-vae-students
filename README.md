@@ -24,6 +24,8 @@ The Fashion-MNIST/CelebA browser gallery uses labelled precomputed outputs. The 
 
 Read the [setup and dataset guide](STUDENT_GUIDE.md), then start Jupyter from the extracted package. The Digits exercises run on a laptop CPU. Try the exercises before opening their solutions.
 
+Every model notebook includes a torchinfo summary. After creating the model in a Digits exercise, run **Inspect the model with torchinfo** to print its layers, tensor shapes and parameter counts without training.
+
 The face models are optional. Their notebooks explain how to obtain CelebA from Kaggle and set the image and partition paths. Start with the small training limits when using limited hardware.
 
 ## Downloads and sources
