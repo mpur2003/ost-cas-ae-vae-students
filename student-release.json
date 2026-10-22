@@ -1,8 +1,8 @@
 {
   "edition": "2026",
   "archive": "CASDay1_students_2026.zip",
-  "sha256": "0bc1dbf02f8eae421207febf9c54e0cd9474da49d48deb673f15e119e2891c80",
-  "bytes": 8527221,
+  "sha256": "fd6701439889a412cebe31e175c935fb1695493e88ff40c0f45a84ac806559f3",
+  "bytes": 8526079,
   "student_slides": 89,
   "last_slide": "Take-home messages",
   "appendix_included": false,
@@ -25,5 +25,6 @@
     "B5"
   ],
   "digits_viewer_link_before_fashion": true,
-  "smiling_vector_convention": "group_mean_difference"
+  "smiling_vector_convention": "group_mean_difference",
+  "extra_detail_location": "speaker_notes"
 }
