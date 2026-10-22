@@ -14,13 +14,15 @@ The slides and demonstrations work offline after extraction, with no Python inst
 
 - 89 lecture slides, ending with the take-home messages.
 - Browser demonstrations for Digits, Fashion-MNIST and CelebA.
-- Two Digits exercise notebooks and their solutions.
+- Two Digits exercise notebooks and their solutions, including written A5/B5 discussion answers.
 - Four standalone Fashion-MNIST/CelebA training notebooks with model summaries.
 - Python/Jupyter setup, hardware choices and dataset download instructions.
 
 The Fashion-MNIST/CelebA browser gallery uses labelled precomputed outputs. The small Digits decoder runs in JavaScript. The notebooks let you train your own models; optional Fashion-MNIST and CelebA training and downloads are disabled by default.
 
 The transposed-convolution section follows the dinner break, immediately before VAEs. It is optional: follow the short visual overview or use **Continue to VAEs** to skip the implementation detail. The separate transposed-convolution notebook is not included.
+
+The reconstruction slide immediately before Fashion-MNIST links directly to the interactive Digits 8×8 viewer.
 
 ## Hands-on exercises
 

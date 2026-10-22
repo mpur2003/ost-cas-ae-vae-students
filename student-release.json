@@ -1,8 +1,8 @@
 {
   "edition": "2026",
   "archive": "CASDay1_students_2026.zip",
-  "sha256": "7205644078be23ba7f47297054d66f9030fa0ce28081445cee38609ae90c5dc1",
-  "bytes": 8525207,
+  "sha256": "5e0388cc8bf21c3db98d969bc35e2f75be32628be569e239bae72deae73abbcf",
+  "bytes": 8527341,
   "student_slides": 89,
   "last_slide": "Take-home messages",
   "appendix_included": false,
@@ -12,12 +12,17 @@
   "standalone_training_notebooks": 4,
   "exercise_notebooks": 2,
   "solution_notebooks": 2,
-  "local_references_verified": 84,
+  "local_references_verified": 85,
   "browser_errors": 0,
   "transposed_convolution_walkthrough_included": false,
   "model_summary_notebooks": 8,
   "model_summary_library": "torchinfo==1.8.0",
   "optional_decoder_slides": 16,
   "optional_decoder_after": "Dinner break",
-  "optional_decoder_before": "VAE chapter"
+  "optional_decoder_before": "VAE chapter",
+  "solution_discussion_answers": [
+    "A5",
+    "B5"
+  ],
+  "digits_viewer_link_before_fashion": true
 }
