@@ -12,7 +12,7 @@ The slides and demonstrations work offline after extraction, with no Python inst
 
 ## Included
 
-- 87 core lecture slides, ending with the take-home messages.
+- 89 core lecture slides, ending with the take-home messages.
 - Browser demonstrations for Digits, Fashion-MNIST and CelebA.
 - Two Digits exercise notebooks and their solutions.
 - Four standalone Fashion-MNIST/CelebA training notebooks with model summaries.
