@@ -6,14 +6,14 @@
 
 Extract the entire ZIP and open **CASDay2/START_HERE.html**. Day 2 now follows the same OnePackage structure as Day 1:
 
-- `lecture/`: seven walkthroughs, three offline displays, and supplied CPU model support.
+- `lecture/`: seven walkthroughs, a completed CPU training notebook, three offline displays, and supplied CPU model support.
 - `exercise/`: two class practicals and two homework notebooks.
 - `docs/`: student setup, homework brief, and source/data notes.
 - `tools/`: a check for the extracted student package.
 
 Teaching starts with an **extended Day 1 recap: AE/VAE -> AE guidance -> conditional generation**. It then introduces **GANs -> contrastive learning**. The 17:00-21:00 class includes two 30-minute practicals (AE guidance 17:40, GANs 20:00). Conditional-generation and contrastive tasks are homework after their demonstrations, taking 60-80 minutes total.
 
-The displays work offline without Python, GPU, network, or live training. Core notebooks use twelve saved checkpoints on real **8x8 scikit-learn digits, not MNIST**. Install packages once using `requirements-student.txt`, then open notebooks in Jupyter. If local-file access is blocked, run `python start_class.py`.
+The displays work offline without Python, GPU, network, or live training. Core notebooks use twelve saved checkpoints on real **8x8 scikit-learn digits, not MNIST**. The GAN practical also trains fresh networks on **28x28 MNIST** with two CPU threads and a three-minute training cap. Prepare the MNIST download before class. Open `lecture/training/09_TRAIN_MNIST_GAN_CPU.ipynb` or exercise 03; see `docs/LAPTOP_TRAINING.md`. Install packages once using `requirements-student.txt`, then open notebooks in Jupyter. If local-file access is blocked, run `python start_class.py`.
 
 Private solutions, marking notes, and the original reference PDF are excluded. A rewritten Day 2 slide deck is not included. Optional 28x28 experiments require deliberate data preparation. Physical Mac/MPS/Intel Mac/Safari execution remains untested.
 
