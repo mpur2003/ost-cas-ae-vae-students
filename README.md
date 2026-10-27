@@ -1,5 +1,24 @@
 # OST CAS: Autoencoders and Variational Autoencoders
 
+## Day 2: GANs, representations, and controlled generation
+
+**[Download Day 2 student materials](https://github.com/mpur2003/ost-cas-ae-vae-students/releases/download/day2-2026/CASDay2_students_2026.zip)** ? about 7.8 MB; no GitHub account needed.
+
+Extract the whole ZIP, then open **CASDay2/START_HERE.html**. The package includes:
+
+- Three offline browser displays for GAN/contrastive learning, sharpness, and AE/VAE guidance.
+- Seven PyTorch walkthroughs with saved outputs and twelve pretrained checkpoints.
+- Four CPU student exercises: latent guidance, conditional generation, GAN gradient paths, and contrastive pairs.
+- Setup instructions and separate pre-class training scripts.
+
+The small labs use real **8x8 scikit-learn digits, not MNIST**. Browser displays
+need no Python, GPU, network, or live training. Required notebooks use CPU checkpoints.
+Optional 28x28 notebooks default to no automatic training or downloads. Instructor
+solutions and the old reference PDF are excluded. A freshly rewritten Day 2 slide
+deck is not included. Mac/Safari hardware execution has not been tested.
+
+---
+
 Student materials for the 2026 class.
 
 **[Download the complete student package](https://github.com/mpur2003/ost-cas-ae-vae-students/releases/download/course-2026/CASDay1_students_2026.zip)** — about 8.5 MB; no GitHub account needed.

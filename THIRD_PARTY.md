@@ -33,3 +33,7 @@ Preserve the source credits when using the teaching material.
 The conceptual face illustrations in the lecture PDF are credited illustrations;
 they are distinct from the original CelebA test photographs omitted from the
 student model gallery. Static gallery response times are not inference benchmarks.
+
+## Day 2 additions
+
+Small labs use the scikit-learn/UCI 8x8 handwritten digits dataset. GAN and SimCLR-style teaching code is independently implemented; primary references are Goodfellow et al. (https://arxiv.org/abs/1406.2661) and Chen et al. (https://proceedings.mlr.press/v119/chen20j.html). Preserve the source notices included in the student ZIP. No original PDF figures or face data are included.
