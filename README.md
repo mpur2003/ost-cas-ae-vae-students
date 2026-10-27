@@ -2,7 +2,11 @@
 
 ## Day 2: GANs, representations, and controlled generation
 
-**[Download Day 2 student materials](https://github.com/mpur2003/ost-cas-ae-vae-students/releases/download/day2-2026/CASDay2_students_2026.zip)** ? about 7.8 MB; no GitHub account needed.
+All four practicals run in class, **20 minutes each**: GAN 17:50-18:10,
+contrastive learning 18:35-18:55, AE guidance 20:00-20:20, and conditional
+generation 20:35-20:55. The class remains 17:00-21:00 with the original breaks.
+
+**[Download Day 2 student materials](https://github.com/mpur2003/ost-cas-ae-vae-students/releases/download/day2-2026/CASDay2_students_2026.zip)** - about 7.9 MB; no GitHub account needed.
 
 Extract the whole ZIP, then open **CASDay2/START_HERE.html**. The package includes:
 
