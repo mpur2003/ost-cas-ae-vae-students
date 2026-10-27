@@ -1,28 +1,21 @@
 # OST CAS: Autoencoders and Variational Autoencoders
 
-## Day 2: GANs, representations, and controlled generation
+## Day 2: extended recap, GANs, and contrastive learning
 
-In class and homework: **two 30-minute class practicals**, AE guidance 17:40-18:10
-and GAN gradient paths 20:00-20:30. Conditional generation and contrastive learning
-are demonstrated in class, then assigned as **homework (60-80 minutes total)**.
-The ZIP includes HOMEWORK.md with deliverables and a rubric; instructor marking
-notes remain private. Teaching order stays recap, AE guidance, conditional generation,
-GANs, then contrastive learning. The class remains 17:00-21:00 with the original breaks.
+**[Download the complete Day 2 student ZIP](https://github.com/mpur2003/ost-cas-ae-vae-students/releases/download/day2-2026/CASDay2_students_2026.zip)** - about 6.1 MB; no GitHub account needed.
 
-**[Download Day 2 student materials](https://github.com/mpur2003/ost-cas-ae-vae-students/releases/download/day2-2026/CASDay2_students_2026.zip)** - about 7.9 MB; no GitHub account needed.
+Extract the entire ZIP and open **CASDay2/START_HERE.html**. Day 2 now follows the same OnePackage structure as Day 1:
 
-Extract the whole ZIP, then open **CASDay2/START_HERE.html**. The package includes:
+- `lecture/`: seven walkthroughs, three offline displays, and supplied CPU model support.
+- `exercise/`: two class practicals and two homework notebooks.
+- `docs/`: student setup, homework brief, and source/data notes.
+- `tools/`: a check for the extracted student package.
 
-- Three offline browser displays for GAN/contrastive learning, sharpness, and AE/VAE guidance.
-- Seven PyTorch walkthroughs with saved outputs and twelve pretrained checkpoints.
-- Four CPU student exercises: latent guidance, conditional generation, GAN gradient paths, and contrastive pairs.
-- Setup instructions and separate pre-class training scripts.
+Teaching starts with an **extended Day 1 recap: AE/VAE -> AE guidance -> conditional generation**. It then introduces **GANs -> contrastive learning**. The 17:00-21:00 class includes two 30-minute practicals (AE guidance 17:40, GANs 20:00). Conditional-generation and contrastive tasks are homework after their demonstrations, taking 60-80 minutes total.
 
-The small labs use real **8x8 scikit-learn digits, not MNIST**. Browser displays
-need no Python, GPU, network, or live training. Required notebooks use CPU checkpoints.
-Optional 28x28 notebooks default to no automatic training or downloads. Instructor
-solutions and the old reference PDF are excluded. A freshly rewritten Day 2 slide
-deck is not included. Mac/Safari hardware execution has not been tested.
+The displays work offline without Python, GPU, network, or live training. Core notebooks use twelve saved checkpoints on real **8x8 scikit-learn digits, not MNIST**. Install packages once using `requirements-student.txt`, then open notebooks in Jupyter. If local-file access is blocked, run `python start_class.py`.
+
+Private solutions, marking notes, and the original reference PDF are excluded. A rewritten Day 2 slide deck is not included. Optional 28x28 experiments require deliberate data preparation. Physical Mac/MPS/Intel Mac/Safari execution remains untested.
 
 ---
 
