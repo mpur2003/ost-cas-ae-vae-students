@@ -2,10 +2,12 @@
 
 ## Day 2: GANs, representations, and controlled generation
 
-All four practicals run in class, **20 minutes each**: AE guidance 17:30-17:50,
-conditional generation 18:15-18:35, GAN 19:45-20:05, and contrastive learning
-20:35-20:55. Teaching order: recap, AE guidance, conditional generation, GANs,
-then contrastive learning. The class remains 17:00-21:00 with the original breaks.
+In class and homework: **two 30-minute class practicals**, AE guidance 17:40-18:10
+and GAN gradient paths 20:00-20:30. Conditional generation and contrastive learning
+are demonstrated in class, then assigned as **homework (60-80 minutes total)**.
+The ZIP includes HOMEWORK.md with deliverables and a rubric; instructor marking
+notes remain private. Teaching order stays recap, AE guidance, conditional generation,
+GANs, then contrastive learning. The class remains 17:00-21:00 with the original breaks.
 
 **[Download Day 2 student materials](https://github.com/mpur2003/ost-cas-ae-vae-students/releases/download/day2-2026/CASDay2_students_2026.zip)** - about 7.9 MB; no GitHub account needed.
 
